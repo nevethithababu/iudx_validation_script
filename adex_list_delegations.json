@@ -277,6 +277,29 @@
                 },
                 "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
             }
+        },
+        {
+            "id": "383b5c92-c6aa-4872-ac46-8c0a8377101b",
+            "url": "gateway.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX Gateway",
+            "createdAt": "2025-06-23T08:03:43.615786",
+            "owner": {
+                "email": "anthrokrishi-api@google.com",
+                "name": {
+                    "firstName": "Google",
+                    "lastName": "India"
+                },
+                "id": "e45bb413-fdfc-484b-8d18-be625d9a9f6f"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
         }
     ]
 }
