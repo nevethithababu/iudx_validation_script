@@ -991,6 +991,50 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "6fffef0f-09b3-404f-9048-9cc369e7f83b",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "consumer",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "ugix.test.consumer@datakaveri.org",
+                "name": {
+                    "firstName": "UGIX",
+                    "lastName": "TestConsumer"
+                },
+                "id": "09c5d0e6-3f94-4458-a388-100565bd4da3"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "e6b430cd-bef7-446d-bdaa-3d1092b35b1c",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "content@esri.in",
+                "name": {
+                    "firstName": "ESRI",
+                    "lastName": "India"
+                },
+                "id": "b249c668-fa7d-428b-b58e-4ad110b9f659"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
