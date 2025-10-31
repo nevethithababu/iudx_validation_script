@@ -1057,6 +1057,28 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "c992bbbc-1dc7-46f6-8de7-b77c6a943a9c",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "gh_srlumg@nrsc.gov.in",
+                "name": {
+                    "firstName": "Group Head",
+                    "lastName": "SRLUMG"
+                },
+                "id": "6ea02c0f-fa76-459e-b60c-16c92cbe0984"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
