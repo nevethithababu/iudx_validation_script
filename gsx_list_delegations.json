@@ -1079,6 +1079,28 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "68e245c2-70e9-4c33-b3b6-8c7f351b8433",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "rkumar@iwai.gov.in",
+                "name": {
+                    "firstName": "Rakesh",
+                    "lastName": "Kumar"
+                },
+                "id": "87f33e02-bd4e-4fde-90c2-cc75a783a006"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
